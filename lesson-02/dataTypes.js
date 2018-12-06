@@ -3,7 +3,6 @@ function show(data){
 }
 
 //1.work with Math class
-
 show(Math.pow(2,10));
 show(Math.round(1.7));
 show(Math.ceil(1.7));
@@ -14,7 +13,6 @@ show(Math.min(-30,-20,-10));
 show(Math.random()*100);
 
 //2.work with Date class
-
 var now = new Date();
 show(now);
 show(now.getDate());
@@ -29,7 +27,6 @@ show(now.getTimezoneOffset());
 show(now.getYear());
 
 //3.STRINGS
-
 var str = 'Hello'+' world';
 show(str.charAt(0));
 show(str.charCodeAt(0));
@@ -43,7 +40,6 @@ show(str.split('l'));
 show(str.toUpperCase());
 
 //4. Wrappers
-
 var primString = 'customText';
 //primString.customValue = 200; //cannot do it as it is primitive data
 show(primString);
@@ -57,7 +53,6 @@ var wrapperNumber = new Number(100);
 show(wrapperNumber.toExponential());
 
 //5. if-else
-
 var personAge = 16;
 
 if(personAge>18){
@@ -89,7 +84,7 @@ switch(personAge){
 }
 
 
-
+//added test message
 
 
 
