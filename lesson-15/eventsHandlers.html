@@ -1,0 +1,45 @@
+<html>
+
+<head>
+    <title>
+        Events handlers
+    </title>
+    <style>
+        .custom-margin {
+            margin-top: 15px;
+        }
+
+        .error {
+            background-color: red;
+        }
+
+    </style>
+
+</head>
+
+<body>
+    <input value="Please press me" type="button" onclick="showData('hi folks')">
+    <br>
+
+    <input type="button" class="custom-margin" value="countBirds()" onclick="countBirds()">
+    <br>
+
+    <input type="button" class="custom-margin" value="eventFromJS" id="eventFromJS">
+    <br>
+
+    <textarea class="custom-margin" id="area" cols="30" rows="10"></textarea>
+    <br>
+
+    <input type="button" id="focusButton" value="focusButton" class="custom-margin">
+    <input type="text" id="focusText">
+
+    <br>
+
+    <lebel>Age:<input type="text" class="custom-margin" id="formValidationAge"></lebel><br>
+    <lebel>Name:<input type="text" class="custom-margin" id="formValidationName"></lebel>
+
+
+    <script src="eventsHandlers.js"></script>
+</body>
+
+</html>
