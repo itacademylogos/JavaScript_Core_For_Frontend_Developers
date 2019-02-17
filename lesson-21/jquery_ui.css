@@ -1,0 +1,44 @@
+div#dragable{
+    width: 150px;
+    height: 150px;
+    border-style: solid; 
+    background-color: pink;
+}
+
+div#droppable{
+    width: 250px;
+    height: 250px;
+    border-style: dotted;    
+}
+
+div#resizable{
+    width: 150px;
+    height: 100px;
+    margin-bottom: 200px;
+    border-style: dotted;  
+}
+
+ul#sortable{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 50%;
+}
+
+ul#sortable li{
+    margin: 0 10px 10px 10px;
+    padding: 1em;
+    padding-left: 1.5em;
+    height: 20px;
+    border-style: solid;
+}
+
+ul#menu{
+    width: 200px;
+    margin-bottom: 100px
+}
+
+div#progressBar{
+    margin-bottom: 300px
+}
+
