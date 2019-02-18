@@ -25,3 +25,4 @@
 * [lesson-24](https://github.com/itacademylogos/JavaScript_Core_for_FrontEnd_developers/tree/lesson-24)  (UnderScore JS part-1)
 * [lesson-25](https://github.com/itacademylogos/JavaScript_Core_for_FrontEnd_developers/tree/lesson-25)  (UnderScore JS part-2)
 * [lesson-26](https://github.com/itacademylogos/JavaScript_Core_for_FrontEnd_developers/tree/lesson-26)  (UnderScore JS part-3)
+* [lesson-27](https://github.com/itacademylogos/JavaScript_Core_for_FrontEnd_developers/tree/lesson-27)  (Git flows)
