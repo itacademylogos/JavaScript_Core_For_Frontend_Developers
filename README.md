@@ -1,7 +1,7 @@
 # JavaScript Core 
 Шановні студенти, код із занять Ви можете знайти в бренчах.
 
-* [lesson-02](https://github.com/itacademylogos/JavaScript_Core_for_FrontEnd_developers/tree/lesson-02)  (Типи данихб керуючі конструкції)
+* [lesson-02](https://github.com/itacademylogos/JavaScript_Core_for_FrontEnd_developers/tree/lesson-02)  (Типи даних керуючі конструкції)
 * [lesson-04](https://github.com/itacademylogos/JavaScript_Core_for_FrontEnd_developers/tree/lesson-04)  (Оператори, цикли)
 * [lesson-05](https://github.com/itacademylogos/JavaScript_Core_for_FrontEnd_developers/tree/lesson-05)  (Об'єкти)
 * [lesson-06](https://github.com/itacademylogos/JavaScript_Core_for_FrontEnd_developers/tree/lesson-06)  (Функції)
